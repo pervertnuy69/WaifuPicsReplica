@@ -1,0 +1,11 @@
+.img {
+	width: 200px;
+}
+#about,
+#select2 {
+	display: none;
+}
+
+header > nav > div > div > ul > li > a {
+	cursor: pointer;
+}
